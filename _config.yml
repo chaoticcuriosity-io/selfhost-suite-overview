@@ -1,0 +1,7 @@
+title: Self-Hosted Software Suite
+description: A plain-language capabilities overview — free, self-hosted replacements for paid SaaS.
+theme: jekyll-theme-cayman
+
+# Cayman shows the title + description above as the page banner.
+# To switch to a docs-style theme with search/nav later, replace the line above with:
+#   remote_theme: just-the-docs/just-the-docs
